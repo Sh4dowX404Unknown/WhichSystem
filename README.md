@@ -31,7 +31,7 @@ python3 whichsystem.py <ip_address>
 If you want to set the script to the local path, do the following:
 ```
 sudo mv whichsystem.py /usr/local/bin
-sudo chmod +x /usr/loc/bin/whichsystem.py
+sudo chmod +x /usr/local/bin/whichsystem.py
 ```
 To use the script, do the same as in the automated set up section
 ```
