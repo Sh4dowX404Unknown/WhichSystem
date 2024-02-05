@@ -8,3 +8,7 @@ sudo mv whichsystem.py /usr/local/bin
 
 # Give the script executable permissions
 sudo chmod +x /usr/local/bin/whichsystem.py
+
+# Remove folder
+cd ..
+rm -rf WhichSystem
